@@ -1,0 +1,3 @@
+# maximal time in seconds to run
+# [type: real, range: [0,1.79769313486232e+308], default: 1e+020]
+limits/time = 1800

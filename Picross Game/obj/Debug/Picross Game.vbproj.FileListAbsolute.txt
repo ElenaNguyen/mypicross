@@ -1,0 +1,20 @@
+D:\Picross-projects\Picross Game\Picross Game\bin\Debug\Picross Game.exe.config
+D:\Picross-projects\Picross Game\Picross Game\bin\Debug\Picross Game.exe
+D:\Picross-projects\Picross Game\Picross Game\bin\Debug\Picross Game.pdb
+D:\Picross-projects\Picross Game\Picross Game\bin\Debug\Picross Game.xml
+D:\Picross-projects\Picross Game\Picross Game\obj\Debug\Picross_Game.frmPicrossGame.resources
+D:\Picross-projects\Picross Game\Picross Game\obj\Debug\Picross_Game.Resources.resources
+D:\Picross-projects\Picross Game\Picross Game\obj\Debug\Picross Game.vbproj.GenerateResource.Cache
+D:\Picross-projects\Picross Game\Picross Game\obj\Debug\Picross Game.exe
+D:\Picross-projects\Picross Game\Picross Game\obj\Debug\Picross Game.xml
+D:\Picross-projects\Picross Game\Picross Game\obj\Debug\Picross Game.pdb
+D:\Picross-projects\PicrossGame\Picross Game\bin\Debug\Picross Game.exe.config
+D:\Picross-projects\PicrossGame\Picross Game\obj\Debug\Picross Game.exe
+D:\Picross-projects\PicrossGame\Picross Game\obj\Debug\Picross Game.xml
+D:\Picross-projects\PicrossGame\Picross Game\obj\Debug\Picross Game.pdb
+D:\Picross-projects\PicrossGame\Picross Game\bin\Debug\Picross Game.exe
+D:\Picross-projects\PicrossGame\Picross Game\bin\Debug\Picross Game.pdb
+D:\Picross-projects\PicrossGame\Picross Game\bin\Debug\Picross Game.xml
+D:\Picross-projects\PicrossGame\Picross Game\obj\Debug\Picross_Game.frmPicrossGame.resources
+D:\Picross-projects\PicrossGame\Picross Game\obj\Debug\Picross_Game.Resources.resources
+D:\Picross-projects\PicrossGame\Picross Game\obj\Debug\Picross Game.vbproj.GenerateResource.Cache

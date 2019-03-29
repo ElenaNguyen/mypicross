@@ -1,0 +1,11 @@
+# Information of clues on columns
+# Column index    Order of clue    Value of clue    Begin range    End range
+     2     1     1     1     2
+     2     2     1     3     4
+     3     1     1     1     2
+     3     2     1     3     4
+     4     1     3     1     2
+     5     1     1     1     2
+     5     2     1     3     4
+     6     1     1     1     1
+     6     2     2     3     3
